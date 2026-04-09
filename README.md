@@ -2,6 +2,10 @@
 
 <h3 align="center">🚀 Data Science Student | Backend Enthusiast | Problem Solver</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santoshkumar1545&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 📫 How to reach me:
@@ -11,7 +15,6 @@
 - 💻 GitHub: https://github.com/santoshkumar1545  
 
 ---
-
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech CSE Student (2023–2027)  
@@ -72,8 +75,6 @@
 
 ---
 
----
-
 ### 📜 Certifications:
 - ✔️ AWS Data Engineering  
 - ✔️ Google Data Analytics  
@@ -86,11 +87,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumar1545&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar1545&theme=radical" />
 </p>
 
 ---
