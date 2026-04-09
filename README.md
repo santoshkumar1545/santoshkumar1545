@@ -11,6 +11,9 @@
 - 💻 GitHub: https://github.com/santoshkumar1545  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santoshkumar1545&label=Profile%20Views&color=0e75b6&style=flat" alt="santoshkumar1545" />
+</p>
 
 ### 👨‍💻 About Me:
 - 🎓 B.Tech CSE Student (2023–2027)  
